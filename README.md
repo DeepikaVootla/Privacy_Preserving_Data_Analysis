@@ -10,5 +10,7 @@ To run a model put the model name in { } in the above command and run it.
 To set epsilon to a desired value according to deepmind parameters, change the --ref_nb_steps in command line input as follows:
 
 For epsilon 1, --ref_nb_steps 875
+
 For epsilon 2, --ref_nb_steps 1125
+
 For epsilon 3, --ref_nb_steps 1593
